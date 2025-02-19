@@ -2,11 +2,11 @@
 
 **My Work:**
 
-Personalized Prediction of Future Lesion Activity and Treatment Effect in Multiple Sclerosis from Baseline MRI: https://arxiv.org/abs/2204.01702
+  Personalized Prediction of Future Lesion Activity and Treatment Effect in Multiple Sclerosis from Baseline MRI: https://arxiv.org/abs/2204.01702
 
-Improving Image-Based Precision Medicine with Uncertainty-Aware Causal Models: https://arxiv.org/abs/2305.03829
+  Improving Image-Based Precision Medicine with Uncertainty-Aware Causal Models: https://arxiv.org/abs/2305.03829
 
-Probabilistic Temporal Prediction of Continuous Disease Trajectories and Treatment Effects Using Neural SDEs: https://arxiv.org/abs/2406.12807
+  Probabilistic Temporal Prediction of Continuous Disease Trajectories and Treatment Effects Using Neural SDEs: https://arxiv.org/abs/2406.12807
 
 
 **Causal Inference:**
