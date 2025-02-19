@@ -2,7 +2,7 @@
 Papers that I find relevant to my work
 
 Causal Inference: 
-Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey: https://arxiv.org/abs/2403.09606
+Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey: https://arxiv.org/abs/2403.09606 \n
 Efficient Randomized Experiments Using Foundation Models: https://arxiv.org/pdf/2502.04262
 Causal Proxy Models for Concept Based Model Explanations: https://arxiv.org/pdf/2209.14279
 Active Learning for Optimal Intervention Design in Causal Models: https://arxiv.org/pdf/2209.04744
