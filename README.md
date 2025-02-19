@@ -1,6 +1,9 @@
 # CausalInferencePapers-Medical-Imaging-Papers
+
 Papers that I find relevant to my work
+
 **My Work**
+
 Personalized Prediction of Future Lesion Activity and Treatment Effect in Multiple Sclerosis from Baseline MRI: https://arxiv.org/abs/2204.01702
 
 Improving Image-Based Precision Medicine with Uncertainty-Aware Causal Models: https://arxiv.org/abs/2305.03829
