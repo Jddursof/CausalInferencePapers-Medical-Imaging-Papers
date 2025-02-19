@@ -2,17 +2,27 @@
 Papers that I find relevant to my work
 
 Causal Inference: 
-Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey: https://arxiv.org/abs/2403.09606 \n
+Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey: https://arxiv.org/abs/2403.09606
+
 Efficient Randomized Experiments Using Foundation Models: https://arxiv.org/pdf/2502.04262
+
 Causal Proxy Models for Concept Based Model Explanations: https://arxiv.org/pdf/2209.14279
+
 Active Learning for Optimal Intervention Design in Causal Models: https://arxiv.org/pdf/2209.04744
+
 Synthetic Potential Outcomes and Causal Mixture Identifiability: https://arxiv.org/pdf/2405.19225
+
 Causal Lifting of Neural Represenations: Zero-Shot Generalization for Causal Inference: https://arxiv.org/pdf/2502.06343
+
 Causal Representation Learning for Instantaneous and Temporal Effects in Interactive Systems: https://openreview.net/pdf?id=itZ6ggvMnzS
 
+
 Representation Learning:
+
 Deep Metric Learning: A Survey: https://www.mdpi.com/2073-8994/11/9/1066
+
 Deep Visual Domain Adaptation: A Survey: https://arxiv.org/pdf/1802.03601
+
 Diffusion Models for Medical Image Analysis: A Comprehensive Survey: https://arxiv.org/abs/2211.07804
 
 Treatment Effect Estimation:
